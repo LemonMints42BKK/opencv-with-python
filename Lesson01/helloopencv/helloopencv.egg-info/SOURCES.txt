@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+helloopencv.py
+setup.py
+helloopencv.egg-info/PKG-INFO
+helloopencv.egg-info/SOURCES.txt
+helloopencv.egg-info/dependency_links.txt
+helloopencv.egg-info/requires.txt
+helloopencv.egg-info/top_level.txt
